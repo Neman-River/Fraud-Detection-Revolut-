@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# uv / venv
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+datasets/
+*.csv
+*.parquet
+*.txt
